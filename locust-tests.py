@@ -75,8 +75,7 @@ class TeamboardTasks(TaskSet):
                         'accessCode': accessCode['accessCode']
                 })
 
-
-		print '/board/' + board['id'] + '/access/' + accessCode['accessCode']
+		print self.client.base_url + '/board/' + board['id'] + '/access/' + accessCode['accessCode']
 
 
 	@task(1)
