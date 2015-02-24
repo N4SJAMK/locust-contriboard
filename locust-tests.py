@@ -79,7 +79,7 @@ class TeamboardTasks(TaskSet):
                 })
 
 
-		print '52.16.9.167/board/' + board['id'] + '/access/' + accessCode['accessCode']
+		print '/board/' + board['id'] + '/access/' + accessCode['accessCode']
 
 
 	@task(1)
@@ -131,7 +131,7 @@ class TeamboardTasks(TaskSet):
                                 'position': {
                                         'x': random.randint(0, 712),
                                         'y': random.randint(0, 556),
-                                        'z': 0
+                                        
                                 }
                         }),
                         headers = {
@@ -159,13 +159,15 @@ class TeamboardTasks(TaskSet):
 		if self.token is None: return
 		if len(self.boards) is 0: return
 		if len(self.tickets) > 5: return
+		color = random.choice(COLOR)
+
 		board = random.choice(self.boards)
 
 		response = self.client.post('/boards/' + board['id'] + '/tickets',
 			data = {
 				'heading': 'Liikuteltavaa',
 				'content': 'sisaltoa',
-				'color': 'blue'
+				'color': color
 			},
 			headers = {
 				'authorization': 'bearer ' + self.token + ''
@@ -193,7 +195,7 @@ class TeamboardTasks(TaskSet):
 				'position': {
 					'x': random.randint(0, 712),
 					'y': random.randint(0, 556),
-					'z': 0
+					
 				}
 			}),
 			headers = {
