@@ -93,9 +93,11 @@ class TeamboardTasks(TaskSet):
 		if len(self.x_token) == 0: return
 		target_boardid = random.choice(self.x_token.keys())
 		target_access = self.x_token[target_boardid]['x-access-token']
+		#if len(self.x_token[target_boardid]['tickets']) > 5: return
 		color = random.choice(COLOR)
 		response = self.client.post('/boards/' + target_boardid + '/tickets',
 			data = {
+				'heading': 'Liikuteltavaa2',
                                 'content': 'sisaltoa2',
                                 'color': color
                         },
@@ -103,6 +105,9 @@ class TeamboardTasks(TaskSet):
                                 'authorization': 'bearer ' + target_access + ''
                         })
 		ticket = response.json()
+		if 'id' not in ticket:
+			print ticket
+			return
                 self.x_token[target_boardid]['tickets'].append(
                         ticket['id']
                 )
@@ -124,8 +129,8 @@ class TeamboardTasks(TaskSet):
                                 target_ticket + '',
                         data = json.dumps({
                                 'position': {
-                                        'x': random.randint(0, 712),
-                                        'y': random.randint(0, 556),
+                                        'x': random.randint(0, 1000),
+                                        'y': random.randint(0, 800),
                                         
                                 }
                         }),
