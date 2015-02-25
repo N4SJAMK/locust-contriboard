@@ -19,11 +19,11 @@ class TeamboardTasks(TaskSet):
 		}
 		self.token = None
 
-		self.client.post('/auth/register', self.user)
+		self.client.post('api/auth/register', self.user)
 
 	#@task(1)
 	#def login(self):
-		response   = self.client.post('/auth/login', self.user)
+		response   = self.client.post('api/auth/login', self.user)
 		self.token = response.headers['x-access-token']
              
 
@@ -31,7 +31,7 @@ class TeamboardTasks(TaskSet):
 	def post_board(self):
 		if self.token is None: return
                 if len(self.boards) > 1: return
-		response = self.client.post('/boards',
+		response = self.client.post('api/boards',
 			data = {
 				'name':     'Botti vauhdissa',
 			},
@@ -46,7 +46,7 @@ class TeamboardTasks(TaskSet):
 		if len(self.boards) is 0: return
 
 		board = random.choice(self.boards)
-		self.client.get('/boards/' + board['id'] + '',
+		self.client.get('api/boards/' + board['id'] + '',
 			headers = {
 				'authorization': 'bearer ' + self.token + ''
 			})
@@ -60,7 +60,7 @@ class TeamboardTasks(TaskSet):
 		
 
 
-		response = self.client.post('/boards/' + board['id'] + '/access',
+		response = self.client.post('api/boards/' + board['id'] + '/access',
 			headers = {
                                 'authorization': 'bearer ' + self.token + ''
                         })
@@ -75,7 +75,7 @@ class TeamboardTasks(TaskSet):
                         'accessCode': accessCode['accessCode']
                 })
 
-		print self.client.base_url + '/board/' + board['id'] + '/access/' + accessCode['accessCode']
+		print self.client.base_url + 'board/' + board['id'] + '/access/' + accessCode['accessCode']
 
 
 	@task(1)
@@ -84,7 +84,7 @@ class TeamboardTasks(TaskSet):
 		target = random.choice(shared)
 		if target['boardid'] in self.x_token: return
 		
-		response = self.client.post('/boards/' + target['boardid'] + '/access/' + target['accessCode'])
+		response = self.client.post('api/boards/' + target['boardid'] + '/access/' + target['accessCode'])
 		self.x_token[target['boardid']] = {'x-access-token': response.headers['x-access-token'],'tickets':[]}
 
 
@@ -95,7 +95,7 @@ class TeamboardTasks(TaskSet):
 		target_access = self.x_token[target_boardid]['x-access-token']
 		#if len(self.x_token[target_boardid]['tickets']) > 5: return
 		color = random.choice(COLOR)
-		response = self.client.post('/boards/' + target_boardid + '/tickets',
+		response = self.client.post('api/boards/' + target_boardid + '/tickets',
 			data = {
 				'heading': 'Liikuteltavaa2',
                                 'content': 'sisaltoa2',
@@ -125,7 +125,7 @@ class TeamboardTasks(TaskSet):
 		target_ticket = random.choice(tickets)
 
 
-                response = self.client.put('/boards/' + target_boardid + '/tickets/' +
+                response = self.client.put('api/boards/' + target_boardid + '/tickets/' +
                                 target_ticket + '',
                         data = json.dumps({
                                 'position': {
