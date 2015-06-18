@@ -172,16 +172,16 @@ class TeamboardTasks(TaskSet):
                                 'authorization': 'bearer ' + target_access + ''
                         })
 	########
-	@task(90)
-        def export(self):
-                if len(self.x_token) == 0: return
-		if self.token is None: return
-                target_boardid = random.choice(self.x_token.keys())
-                board = random.choice(self.boards)
-		target_access = self.x_token[target_boardid]['x-access-token']
+	#@task(90)
+        #def export(self):
+               # if len(self.x_token) == 0: return
+		#if self.token is None: return
+                #target_boardid = random.choice(self.x_token.keys())
+                #board = random.choice(self.boards)
+		#target_access = self.x_token[target_boardid]['x-access-token']
                 #if len(self.x_token[target_boardid]['tickets']) > 5: return
                 
-                self.client.post('api/boards/' + board['id'] + '/export?access_token=' + self.token +'&format=image')
+                #self.client.post('api/boards/' + board['id'] + '/export?access_token=' + self.token +'&format=image')
 
                 
 
