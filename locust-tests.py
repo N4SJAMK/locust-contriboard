@@ -5,6 +5,36 @@ import json
 import random
 shared = [ ]
 COLOR = ['#4F819A','#724A7F','#DCC75B','#EB584A']
+BACKGROUND= ['SWOT','PLAY','SCRUM','KANBAN','KEEP_DROP_TRY','NONE','CUSTOMER_JOURNEY_MAP','BUSINESS_MODEL_CANVAS']
+class jarmo(TaskSet):
+
+	@task(90)
+        def change_background(self):
+                background = random.choice(BACKGROUND)
+                response = self.client.put('api/boards/55812f4b38a6dd23002181b2',
+                        data = json.dumps({
+                                'id': '55812f4b38a6dd23002181b2',
+                                'name':'',
+                                'background': background,
+				'customBackground': '',
+                                'size':
+					{'width':10,'height':10}
+
+
+                        }),
+                        headers = {
+				'content-type':  'application/json',
+                                'authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjU0NjFkZmEyOTA1YmMxMGYwMGE5NGYxZSIsInR5cGUiOiJ1c2VyIiwidXNlcm5hbWUiOiJhYmNAYWJjLmFiYyIsImlhdCI6MTQzNDUyOTYwOX0.gVDdrqH7taDfCON0PNGEsXaGLYfVlcysClzgPenesGQ'
+        })
+                print response
+
+
+
+
+
+
+
+
 class TeamboardTasks(TaskSet):
 
 	def on_start(self):
@@ -14,7 +44,9 @@ class TeamboardTasks(TaskSet):
 		self.x_token = {} 
 
 		self.user = {
-			'email':    'test_' + urandom(16).encode('hex') + '@garnet.red',
+			'email': 'test_' + urandom(16).encode('hex') + '@garnet.red',
+			'passwordRegister': 'test_password',
+			'passwordAgain': 'test_password',
 			'password': 'test_password'
 		}
 		self.token = None
@@ -36,6 +68,7 @@ class TeamboardTasks(TaskSet):
 				'name':     'Botti vauhdissa',
 			},
 			headers = {
+				
 				'authorization': 'bearer ' + self.token + ''
 			})
 		self.boards.append(response.json())
@@ -50,7 +83,7 @@ class TeamboardTasks(TaskSet):
 			headers = {
 				'authorization': 'bearer ' + self.token + ''
 			})
-	@task(1)
+	@task(90)
 	def share_board(self):
 		if self.token is None: return
                 if len(self.boards) is 0: return
@@ -75,7 +108,7 @@ class TeamboardTasks(TaskSet):
                         'accessCode': accessCode['accessCode']
                 })
 
-		print self.client.base_url + 'board/' + board['id'] + '/access/' + accessCode['accessCode']
+		print self.client.base_url + 'boards/' + board['id'] + '/access/' + accessCode['accessCode']
 
 
 	@task(1)
@@ -88,7 +121,7 @@ class TeamboardTasks(TaskSet):
 		self.x_token[target['boardid']] = {'x-access-token': response.headers['x-access-token'],'tickets':[]}
 
 
-	@task(5)
+	@task(4)
 	def create_guest_tickets(self):
 		if len(self.x_token) == 0: return
 		target_boardid = random.choice(self.x_token.keys())
@@ -138,14 +171,62 @@ class TeamboardTasks(TaskSet):
                                 'content-type':  'application/json',
                                 'authorization': 'bearer ' + target_access + ''
                         })
+	########
+	@task(90)
+        def export(self):
+                if len(self.x_token) == 0: return
+		if self.token is None: return
+                target_boardid = random.choice(self.x_token.keys())
+                board = random.choice(self.boards)
+		target_access = self.x_token[target_boardid]['x-access-token']
+                #if len(self.x_token[target_boardid]['tickets']) > 5: return
+                
+                self.client.post('api/boards/' + board['id'] + '/export?access_token=' + self.token +'&format=image')
+
+                
+
+	########
+
+	@task(90)
+        def change_background(self):
+		if self.token is None: return
+                if len(self.boards) is 0: return
+                #if len(shared) >0: return
+		board = random.choice(self.boards)
+                #if board['id'] in self.accessCode: return
+                
+                #target_access = self.x_token[target_boardid]['x-access-token']
+                #if len(self.x_token[target_boardid]['tickets']) > 5: return
+		background = random.choice(BACKGROUND)
+                response = self.client.put('api/boards/' + board['id'] +'',
+                        data = json.dumps({
+                                'id': board,
+                                'name':'',
+                                'background': background,
+                                'customBackground': '',
+                                'size':
+                                        {'width':10,'height':10}
 
 
+                        }),
+
+                        headers = {
+				'content-type':  'application/json',
+                                'authorization': 'Bearer ' + self.token + ''
+        })
+		
+		#print response
 			
 
 class TeamboardUser(HttpLocust):
         weight = 10
         task_set = TeamboardTasks
+        min_wait = 100
+        max_wait = 200
+
+
+class jarmo(HttpLocust):
+	weight = 10
+        task_set = jarmo
         min_wait = 1000
         max_wait = 2000
-
-
