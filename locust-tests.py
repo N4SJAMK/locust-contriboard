@@ -58,7 +58,6 @@ class TeamboardTasks(TaskSet):
 		response   = self.client.post('api/auth/login', self.user)
 		self.token = response.headers['x-access-token']
              
-
 	@task(1)
 	def post_board(self):
 		if self.token is None: return

@@ -1,5 +1,5 @@
 from os     import urandom
-from locust import HttpLocust, TaskSet, task, events
+from locust import HttpLocust, TaskSet, task
 
 import json
 import string
@@ -17,47 +17,34 @@ COLOR = ['#4F819A','#724A7F','#DCC75B','#EB584A']
 BACKGROUND = ['SWOT','PLAY','SCRUM','KANBAN','KEEP_DROP_TRY','NONE','CUSTOMER_JOURNEY_MAP','BUSINESS_MODEL_CANVAS']
 AVATAR = ['http://placebacon.net/400/300', 'https://placehold.it/350x150', 'http://lorempixel.com/100/100/cats/']
 EXPORT_FORMAT = ['json', 'csv', 'plaintext', 'image']
-logfile = open('logs/' + str(time.time()) + 'locustlog.txt', 'w')
-failurelog = open('logs/'+ str(time.time()) + 'failurelog.txt', 'w')
+logfile = open('locustlog', 'a')
 
 #Prevent stats being reset after all locusts hatched
 #so we can log all requests correctly.
 from locust.stats import RequestStats
-def noop(*arg, **kwargs):
+def noop(*arg, **kwargs):	
     print "Stats reset prevented by monkey patch!"
 RequestStats.reset_all = noop
 
-def successlogging(request_type, name, response_time, response_length):	
-	st = datetime.datetime.fromtimestamp(time.time()).strftime('%d-%m-%Y %H:%M:%S.%f')
-	logfile.write('[' + st + '] ' + request_type + '\t' + name + '\n')
 
-def faillogging(request_type, name, response_time, exception):
-	print exception
-	st = datetime.datetime.fromtimestamp(time.time()).strftime('%d-%m-%Y %H:%M:%S.%f')
-	failurelog.write('[' + st + '] ' + request_type + '\t' + name + '\t' + str(exception) + '\n')
-	
-def close_log():
-	logfile.close()
-	failurelog.close() 
-
-events.request_success += successlogging 
-events.request_failure += faillogging 
-events.quitting += close_log
-
-#Common store for all hatchlings
+def logging(code,msg):
+	ts = time.time()
+	st = datetime.datetime.fromtimestamp(ts).strftime('%d-%m-%Y %H:%M:%S')
+	logfile.write('	
+#Common store for all hatchlings 
 sharedboards = { }
-USER_COUNT = 0
 
 #TASKS START
 class TeamboardTasks(TaskSet):
 
 	#When we start we want to automaticaly register and log in the spawned user.
 	def on_start(self):
-		global USER_COUNT
 		self.boards  	= { }
 		self.token 		= None
+
 		self.username = 'test_' + urandom(16).encode('hex') + '@garnet.red'
 		self.password = urandom(16).encode('hex')
+		
 		with self.client.post('api/auth/register', 
 							data={
 								'email': self.username,
@@ -67,7 +54,7 @@ class TeamboardTasks(TaskSet):
 							name='Register', catch_response=True) as response:
 			if response.status_code != 201:
 				response.failure("Register failed, code: " + str(response.status_code))
-				
+		
 		with self.client.get('api/auth/basic/login', 
 										params={
 											'email': self.username,
@@ -81,15 +68,12 @@ class TeamboardTasks(TaskSet):
 
 			if response.status_code == 200:
 				self.token = response.headers['x-access-token']
-				USER_COUNT = USER_COUNT + 1
 			else:
 				response.failure("On start login failed, code: " + str(response.status_code))
 
-			print USER_COUNT
 	'''
 	API: /routes/auth.js
 	'''
-
 	@task(1)
 	def get_auth(self):
 		if self.token is None: return
@@ -433,7 +417,7 @@ class TeamboardTasks(TaskSet):
        								timeout=MAX_WAIT_TIME_SECONDS,
        								name='Ticket Comment',
        								catch_response=True) as response:
-			if response.status_code != 201:
+			if response.status_code != 200:
 				response.failure("Ticket comment failed, code: " + str(response.status_code))
 
 	@task(1)
@@ -455,6 +439,28 @@ class TeamboardTasks(TaskSet):
 	## TODO: Access get and delete
 	## Access is actually done in startup
 
+	@task(5)
+	def set_activity(self):
+		if self.token is None: return
+		if len(self.boards) is 0: return
+
+		board = self.boards[random.choice(self.boards.keys())]
+		with self.client.put('api/boards/' + board['id'] + '/setactivity',
+									json = {
+										'isActive': bool(random.getrandbits(1))
+									},
+									headers = {
+										'Authorization': 'Bearer ' + self.token
+									},
+									timeout=MAX_WAIT_TIME_SECONDS,
+									name='Board Set Activity',
+									catch_response=True) as respose:
+			if respose.status_code != 200:
+				respose.failure("Set activity failed, code: " + str(respose.status_code))
+
+	'''
+	API: /routes/user.js
+	'''
 	@task(2)
 	def edit_user(self):
 		if self.token is None: return		

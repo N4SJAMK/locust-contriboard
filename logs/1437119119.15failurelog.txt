@@ -1,0 +1,2454 @@
+[17-07-2015 10:46:50.015935] GET	Board export as image	Export failed, code 0
+[17-07-2015 10:46:51.714366] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:52.336466] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:52.559003] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:53.902856] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:55.981762] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:56.640054] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:56.867175] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:57.250712] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:46:59.800757] PUT	User Password Change	User password change failed, code: 401
+[17-07-2015 10:47:02.113833] GET	Login	Login failed, code: 401
+[17-07-2015 10:47:04.868832] GET	Login	Login failed, code: 401
+[17-07-2015 10:47:06.171885] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:06.687003] GET	Board export as image	Export failed, code 0
+[17-07-2015 10:47:07.000987] GET	Login	Login failed, code: 401
+[17-07-2015 10:47:07.064775] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:07.455360] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:07.463333] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:07.711059] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:07.724527] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:07.762345] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:07.884921] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:07.908965] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:07.926737] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:08.010275] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:08.131286] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:08.192323] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:08.218184] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:08.230055] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:08.270465] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:08.308705] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:08.328575] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:08.351679] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:08.371715] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:08.394411] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:08.398621] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:08.479037] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:08.497388] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:08.506022] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:08.529068] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:08.579930] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:08.593088] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:08.603802] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:08.612556] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:08.626377] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:08.634162] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:08.647758] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:08.659446] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:08.679239] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:08.734034] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:08.745884] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:08.752439] GET	Board Get Events	Getting board events failed, code 0
+[17-07-2015 10:47:08.766223] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:08.875351] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:08.937180] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:08.938654] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:09.009473] GET	Board export as json	Export failed, code 0
+[17-07-2015 10:47:09.055410] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:09.077159] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:09.078673] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:09.091400] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:09.100529] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:09.109766] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:09.122635] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:09.134468] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:09.143323] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:09.152722] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:09.161262] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:09.192340] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:09.208180] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:09.229757] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:09.324842] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:09.340873] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:09.345741] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:09.348486] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:09.373906] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:09.374246] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:09.430798] GET	Board export as image	Export failed, code 0
+[17-07-2015 10:47:09.438572] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:09.440795] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:09.500666] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:09.630508] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:09.639741] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:09.684189] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:09.697943] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:09.710714] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:09.829445] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:09.854486] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:09.862586] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:09.872692] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:10.114003] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:10.117598] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:10.135487] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:10.145480] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:10.197727] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:10.238699] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:10.244529] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:10.259511] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:10.282970] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:10.304055] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:10.395190] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:10.397970] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:10.504639] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:10.636628] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:10.872511] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:10.896773] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:10.900361] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:10.967120] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:11.136086] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:11.146825] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:11.190061] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:11.230326] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:11.241363] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:11.408808] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:11.559292] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:11.617924] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:11.636577] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:11.639818] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:11.693445] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:11.867086] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:11.871511] GET	Board export as image	Export failed, code 0
+[17-07-2015 10:47:11.960630] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:12.015193] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:12.058364] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:12.136160] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:12.298033] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:12.330611] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:12.360594] GET	Board export as image	Export failed, code 0
+[17-07-2015 10:47:12.379508] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:12.406058] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:12.435868] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:12.442361] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:12.478487] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:12.506358] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:12.539332] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:12.551103] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:12.557634] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:12.609307] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:12.640348] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:12.676608] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:12.687418] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:12.694331] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:12.790227] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:12.824148] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:12.831754] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:12.871844] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:13.043056] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:13.074109] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:13.083810] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:13.228440] GET	Board export as plaintext	Export failed, code 0
+[17-07-2015 10:47:13.258512] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:13.283388] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:13.359905] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:13.371394] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:13.425124] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:13.546246] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:13.548795] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:13.567953] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:13.599165] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:13.602946] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:13.641181] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:13.672255] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:13.672589] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:13.688575] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:13.700567] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:13.703128] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:13.735859] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:13.746395] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:13.871373] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:13.871712] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:13.887466] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:13.922044] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:13.927622] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:13.951532] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:13.963110] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:14.040022] GET	Board Get Events	Getting board events failed, code 0
+[17-07-2015 10:47:14.137745] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:14.188389] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:14.195524] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:14.217080] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:14.233091] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:14.238885] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:14.252835] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:14.311389] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:14.313759] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:14.400424] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:14.531370] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:14.558011] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:14.639469] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:14.640902] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:14.642783] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:14.691347] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:14.699249] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:14.700768] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:14.723470] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:14.724893] GET	Board export as csv	Export failed, code 0
+[17-07-2015 10:47:14.736447] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:14.738974] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:14.839908] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:14.848049] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:14.851066] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:14.858188] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:14.934692] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:14.935087] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:14.936636] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:14.948564] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:14.964066] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:14.984120] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:14.996633] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:15.132521] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:15.142073] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:15.143508] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:15.143884] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:15.175031] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:15.233550] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:15.263988] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:15.294212] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:15.355679] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:15.415184] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:15.457034] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:15.483051] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:15.500881] GET	Version Api	Version api failed, code: 0
+[17-07-2015 10:47:15.518659] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:15.553588] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:15.639697] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:15.641124] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:15.647246] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:15.669204] GET	Board Get Events	Getting board events failed, code 0
+[17-07-2015 10:47:15.678931] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:15.687665] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:15.691421] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:15.715694] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:15.734684] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:15.773024] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:15.810263] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:15.831238] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:15.838055] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:15.848469] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:15.894369] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:15.905026] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:15.978482] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:15.989683] GET	Login	On start login failed, code: 401
+[17-07-2015 10:47:16.012596] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:16.036763] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:16.039653] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:16.145009] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:16.160851] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:16.190624] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:16.212643] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:16.247715] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:16.302521] GET	Board export as json	Export failed, code 0
+[17-07-2015 10:47:16.365452] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:16.470529] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:16.485256] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:16.506392] DELETE	Board Delete	Board remove failed, code: 404
+[17-07-2015 10:47:16.544288] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:16.572665] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:16.632044] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:16.639024] GET	Login	On start login failed, code: 401
+[17-07-2015 10:47:16.644988] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:16.732356] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:16.780788] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:16.784598] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:16.858589] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:16.887993] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:16.890478] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:16.909832] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:16.936682] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:16.959350] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:17.031692] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:17.045531] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:17.051432] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:17.087775] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:17.089209] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:17.104495] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:17.133066] GET	Login	On start login failed, code: 401
+[17-07-2015 10:47:17.146606] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:17.187382] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:17.223093] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:17.230072] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:17.259065] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:17.316692] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:17.328048] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:17.332066] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:17.333528] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:17.338899] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:17.366114] GET	Board Get Events	Getting board events failed, code 0
+[17-07-2015 10:47:17.408317] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:17.421112] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:17.481128] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:17.487992] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:17.544544] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:17.557451] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:17.647143] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:17.662147] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:17.671713] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:17.696871] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:17.710005] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:17.765168] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:17.778154] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:17.811123] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:17.833952] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:17.841710] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:17.873839] GET	Auth request	Get Auth failed, code: 0
+[17-07-2015 10:47:17.905978] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:17.940780] GET	Board export as plaintext	Export failed, code 0
+[17-07-2015 10:47:17.945635] GET	Board Get Events	Getting board events failed, code 0
+[17-07-2015 10:47:17.958382] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:17.968097] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:17.997720] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:18.063079] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:18.071734] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:18.129989] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:18.143313] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:18.147842] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:18.197497] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:18.313513] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:18.376531] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:18.391877] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:18.584537] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:18.584904] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:18.603819] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:18.644100] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:18.644941] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:18.681729] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:18.697777] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:18.722827] GET	Board export as plaintext	Export failed, code 0
+[17-07-2015 10:47:18.724295] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:18.772035] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:18.794364] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:18.816283] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:18.839856] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:18.851596] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:18.873651] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:18.908843] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:18.994603] GET	Board export as csv	Export failed, code 0
+[17-07-2015 10:47:18.998664] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:19.015978] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:19.046865] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:19.058211] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:19.066921] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:19.081583] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:19.107871] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:19.145945] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:19.178639] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:19.192472] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:19.197031] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:19.206914] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:19.209646] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:19.223879] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:19.263117] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:19.265714] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:19.273580] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:19.296704] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:19.329237] POST	Board Share	Share board failed, code: 0
+[17-07-2015 10:47:19.498546] GET	Board export as csv	Export failed, code 0
+[17-07-2015 10:47:19.498890] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:19.592780] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:19.646312] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:19.700640] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:19.702721] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:19.895659] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:19.977498] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:20.008855] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:20.149566] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:20.230822] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:20.241697] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:20.242174] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:20.259264] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:20.270072] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:20.302117] POST	Ticket Comment	Ticket comment failed, code: 404
+[17-07-2015 10:47:20.303652] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:20.304430] PUT	Ticket Modify Content	Ticket modify failed, code: 404
+[17-07-2015 10:47:20.370109] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:20.441280] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:20.530882] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:20.596701] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:20.645734] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:20.660233] GET	Board export as image	Export failed, code 0
+[17-07-2015 10:47:20.662845] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:20.695644] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:20.767019] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:20.832420] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:20.862767] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:20.890366] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:20.927040] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:20.938752] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:20.963325] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:20.999717] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:21.023592] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:21.059112] GET	Board export as json	Export failed, code 0
+[17-07-2015 10:47:21.148241] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:21.198450] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:21.216366] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:21.252517] GET	Board Get All	Getting boards failed, code 502
+[17-07-2015 10:47:21.252895] POST	Ticket Create	Creating new ticket failed, code: 502
+[17-07-2015 10:47:21.253246] PUT	Ticket Modify Content	Ticket modify failed, code: 502
+[17-07-2015 10:47:21.253618] DELETE	Board Delete	Board remove failed, code: 502
+[17-07-2015 10:47:21.254013] POST	Board Share	Share board failed, code: 502
+[17-07-2015 10:47:21.254395] GET	Board Get All	Getting boards failed, code 502
+[17-07-2015 10:47:21.254738] POST	Ticket Create	Creating new ticket failed, code: 502
+[17-07-2015 10:47:21.255109] PUT	Ticket Move	Failed to move ticket, code: 502
+[17-07-2015 10:47:21.255475] POST	Register	Register failed, code: 502
+[17-07-2015 10:47:21.256426] GET	Board Get Tickets	Getting board tickets failed, code 502
+[17-07-2015 10:47:21.256812] DELETE	Board Delete	Board remove failed, code: 502
+[17-07-2015 10:47:21.257372] PUT	Ticket Modify Content	Ticket modify failed, code: 502
+[17-07-2015 10:47:21.257780] POST	Ticket Create	Creating new ticket failed, code: 502
+[17-07-2015 10:47:21.258144] POST	Board Share	Share board failed, code: 502
+[17-07-2015 10:47:21.258554] PUT	Ticket Modify Content	Ticket modify failed, code: 502
+[17-07-2015 10:47:21.258942] DELETE	Ticket Delete	Ticket deletion failed, code: 502
+[17-07-2015 10:47:21.259344] GET	Login	On start login failed, code: 502
+[17-07-2015 10:47:21.259742] PUT	Board Set Activity	Set activity failed, code: 502
+[17-07-2015 10:47:21.260141] GET	Auth (old token)	Get Auth after logout != 401, code: 502
+[17-07-2015 10:47:21.260982] PUT	Ticket Move	Failed to move ticket, code: 502
+[17-07-2015 10:47:21.261362] POST	Logout	Logout failed, code: 502
+[17-07-2015 10:47:21.262222] PUT	Ticket Move	Failed to move ticket, code: 502
+[17-07-2015 10:47:21.262622] GET	Auth (old token)	Get Auth after logout != 401, code: 502
+[17-07-2015 10:47:21.263517] GET	Version Img	Version img failed, code: 502
+[17-07-2015 10:47:21.263883] PUT	Board Set Activity	Set activity failed, code: 502
+[17-07-2015 10:47:21.264268] POST	Ticket Comment	Ticket comment failed, code: 502
+[17-07-2015 10:47:21.264664] POST	Ticket Comment	Ticket comment failed, code: 502
+[17-07-2015 10:47:21.265071] GET	Board Get Tickets	Getting board tickets failed, code 502
+[17-07-2015 10:47:21.265436] POST	Ticket Create	Creating new ticket failed, code: 502
+[17-07-2015 10:47:21.265795] GET	Auth request	Get Auth failed, code: 502
+[17-07-2015 10:47:21.266160] PUT	Ticket Modify Content	Ticket modify failed, code: 502
+[17-07-2015 10:47:21.266527] PUT	Ticket Move	Failed to move ticket, code: 502
+[17-07-2015 10:47:21.266894] POST	Board Create	Board creation failed, code: 502
+[17-07-2015 10:47:21.267234] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:21.268985] PUT	Ticket Move	Failed to move ticket, code: 502
+[17-07-2015 10:47:21.269343] POST	Register	Register failed, code: 502
+[17-07-2015 10:47:21.270306] POST	Board Share	Share board failed, code: 502
+[17-07-2015 10:47:21.270925] POST	Ticket Create	Creating new ticket failed, code: 502
+[17-07-2015 10:47:21.271469] POST	Ticket Create	Creating new ticket failed, code: 502
+[17-07-2015 10:47:21.271975] GET	Board Get All	Getting boards failed, code 502
+[17-07-2015 10:47:21.272532] GET	Login	Login failed, code: 502
+[17-07-2015 10:47:21.273055] GET	Board Get Single	Getting board by id failed, code 502
+[17-07-2015 10:47:21.273567] POST	Logout	Logout failed, code: 502
+[17-07-2015 10:47:21.274649] GET	Login	On start login failed, code: 502
+[17-07-2015 10:47:21.275034] GET	Login	Login failed, code: 502
+[17-07-2015 10:47:21.275420] GET	Login	On start login failed, code: 502
+[17-07-2015 10:47:21.275826] GET	Board Get All	Getting boards failed, code 502
+[17-07-2015 10:47:21.276188] POST	Board Share	Share board failed, code: 502
+[17-07-2015 10:47:21.276668] GET	Login	Login failed, code: 502
+[17-07-2015 10:47:21.277033] POST	Board Share	Share board failed, code: 502
+[17-07-2015 10:47:21.277426] POST	Register	Register failed, code: 502
+[17-07-2015 10:47:21.278368] GET	Login	Login failed, code: 502
+[17-07-2015 10:47:21.278790] POST	Ticket Comment	Ticket comment failed, code: 502
+[17-07-2015 10:47:21.279163] PUT	User Edit	User edit failed, code: 502
+[17-07-2015 10:47:21.279582] DELETE	Ticket Delete	Ticket deletion failed, code: 502
+[17-07-2015 10:47:21.279957] GET	Board Get All	Getting boards failed, code 502
+[17-07-2015 10:47:21.280374] POST	Register	Register failed, code: 502
+[17-07-2015 10:47:21.281195] GET	Board Get Tickets	Getting board tickets failed, code 502
+[17-07-2015 10:47:21.281563] GET	Version Img	Version img failed, code: 502
+[17-07-2015 10:47:21.282055] PUT	Ticket Modify Content	Ticket modify failed, code: 502
+[17-07-2015 10:47:21.282485] GET	Login	On start login failed, code: 502
+[17-07-2015 10:47:21.282853] PUT	User Edit	User edit failed, code: 502
+[17-07-2015 10:47:21.283219] POST	Board Share	Share board failed, code: 502
+[17-07-2015 10:47:21.300645] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:23.285436] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:23.285756] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:23.295200] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:23.333557] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:23.333944] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:23.335400] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:23.335836] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:23.337912] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:23.338263] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:23.338603] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:23.338965] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:23.339818] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:23.340199] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:23.340581] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:23.341630] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:23.341979] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:23.413413] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:23.428665] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:23.448060] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:23.493213] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:23.549464] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:23.552295] GET	Board export as plaintext	Export failed, code 0
+[17-07-2015 10:47:23.566592] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:23.637234] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:23.653349] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:23.685975] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:23.692796] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:23.695032] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:23.696652] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:23.715282] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:23.716678] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:23.730740] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:23.771481] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:23.776806] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:23.801601] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:23.892432] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:23.899285] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:23.952164] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:23.958229] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:24.007292] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:24.015583] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:24.155587] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:24.162414] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:24.173039] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:24.235848] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:24.247056] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:24.278014] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:24.296955] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:24.300847] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:24.311720] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:24.320288] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:24.362464] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:24.393454] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:24.458343] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:24.469597] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:24.491518] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:24.543667] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:24.567630] GET	Version Api	Version api failed, code: 0
+[17-07-2015 10:47:24.606459] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:24.609188] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:24.645827] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:24.646154] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:24.656994] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:24.663390] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:24.698173] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:24.714107] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:24.728681] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:24.739439] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:24.753191] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:24.812043] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:24.820002] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:24.912306] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:24.920188] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:24.921983] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:24.936945] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:24.964871] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:24.995181] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:24.996571] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:25.068799] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:25.083763] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:25.118693] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:25.156843] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:25.165998] GET	Version Api	Version api failed, code: 0
+[17-07-2015 10:47:25.213332] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:25.227276] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:25.243435] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:25.243767] GET	Version Api	Version api failed, code: 0
+[17-07-2015 10:47:25.274278] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:25.299272] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:25.316247] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:25.342555] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:25.343961] GET	Version Api	Version api failed, code: 0
+[17-07-2015 10:47:25.372462] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:25.384331] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:25.392973] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:25.395504] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:25.396386] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:25.404372] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:25.451437] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:25.500287] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:25.502380] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:25.502749] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:25.568877] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:25.598195] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:25.637483] GET	Version Api	Version api failed, code: 0
+[17-07-2015 10:47:25.638926] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:25.640380] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:25.651296] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:25.652736] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:25.673104] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:25.675697] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:25.710078] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:25.748622] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:25.772641] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:25.773583] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:25.774988] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:25.808771] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:25.875891] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:25.989484] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:26.023765] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:26.047061] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:26.071587] GET	Board export as json	Export failed, code 0
+[17-07-2015 10:47:26.084749] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:26.092540] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:26.095021] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:26.095366] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:26.126415] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:26.159573] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:26.205960] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:26.208505] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:26.212155] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:26.263812] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:26.293757] PUT	User Edit	User edit failed, code: 0
+[17-07-2015 10:47:26.328252] GET	Auth (old token)	Get Auth after logout != 401, code: 0
+[17-07-2015 10:47:26.351401] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:26.355595] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:26.415879] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:26.473158] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:26.473521] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:26.510246] GET	Version Api	Version api failed, code: 0
+[17-07-2015 10:47:26.552510] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:26.610094] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:26.631626] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:26.633995] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:26.659861] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:26.684375] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:26.691900] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:26.697422] GET	Board export as csv	Export failed, code 0
+[17-07-2015 10:47:26.702237] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:26.707781] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:26.718665] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:26.730961] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:26.761559] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:26.764411] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:26.799042] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:26.812043] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:26.829376] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:26.829831] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:26.844459] POST	Logout	Logout failed, code: 0
+[17-07-2015 10:47:26.848242] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:26.861337] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:26.904195] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:26.920735] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:26.954725] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:26.957729] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:26.985178] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:27.017803] PUT	User Password Change	User password change failed, code: 0
+[17-07-2015 10:47:27.047720] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:27.058604] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:27.066170] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:27.069515] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:27.085955] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:27.103002] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:27.124907] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:27.155060] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:27.157970] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:27.169193] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:27.192914] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:27.205453] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:27.211659] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:27.212631] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:27.221220] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:27.230214] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:27.265214] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:27.283141] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:27.288062] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:27.292550] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:27.314323] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:27.316180] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:27.319036] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:27.320174] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:27.323376] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:27.358245] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:27.364093] GET	Board Get Events	Getting board events failed, code 0
+[17-07-2015 10:47:27.375181] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:27.389854] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:27.416706] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:27.420393] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:27.450631] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:27.451076] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:27.458356] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:27.504957] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:27.509452] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:27.509973] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:27.527312] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:27.555583] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:27.588836] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:27.603338] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:27.605762] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:27.610737] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:27.621069] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:27.653299] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:27.659111] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:27.660692] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:27.661213] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:27.662310] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:27.693825] GET	Board Get Tickets	Getting board tickets failed, code 0
+[17-07-2015 10:47:27.704436] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:27.715552] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:27.717996] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:27.761813] PUT	Ticket Modify Content	Ticket modify failed, code: 0
+[17-07-2015 10:47:27.765316] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:27.766318] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:27.771219] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:27.779179] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:27.799210] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:27.800155] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:27.804300] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:27.827955] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:27.828426] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:27.838083] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:27.852471] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:27.871029] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:27.875108] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:27.900170] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:27.908902] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:27.935664] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:27.962104] PUT	Board Edit	Board edit failed, code: 0
+[17-07-2015 10:47:27.963543] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:28.005247] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:28.023002] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:28.024255] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:28.037137] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:47:28.071595] GET	Version Img	Version img failed, code: 0
+[17-07-2015 10:47:28.076036] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:28.077482] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:28.098734] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:28.102035] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:28.133157] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:28.134826] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:28.139254] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:28.155900] POST	Register	Register failed, code: 0
+[17-07-2015 10:47:28.170933] DELETE	Ticket Delete	Ticket deletion failed, code: 0
+[17-07-2015 10:47:28.175047] GET	Board export as image	Export failed, code 0
+[17-07-2015 10:47:28.212991] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:28.213865] GET	Login	On start login failed, code: 0
+[17-07-2015 10:47:28.243628] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:28.250077] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:28.261613] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:28.265863] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:28.267280] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:28.274814] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:28.283912] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:28.317970] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:28.318368] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:28.321998] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:28.330571] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:28.332051] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:28.335267] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:28.344675] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:28.358842] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:28.359274] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:28.367683] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:28.368974] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:28.379025] GET	Login	Login failed, code: 0
+[17-07-2015 10:47:28.386124] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:28.387273] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:28.393043] PUT	Board Set Activity	Set activity failed, code: 0
+[17-07-2015 10:47:28.410420] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:28.410816] GET	Auth request	Get Auth failed, code: 0
+[17-07-2015 10:47:28.412191] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:28.422906] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:28.424322] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:28.429744] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:28.430529] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:28.452637] PUT	Ticket Move	Failed to move ticket, code: 0
+[17-07-2015 10:47:28.465178] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:28.472877] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:28.476710] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:28.483665] GET	Board Get Single	Getting board by id failed, code 0
+[17-07-2015 10:47:28.490467] POST	Ticket Create	Creating new ticket failed, code: 0
+[17-07-2015 10:47:28.516432] POST	Ticket Comment	Ticket comment failed, code: 0
+[17-07-2015 10:47:28.525233] DELETE	Board Delete	Board remove failed, code: 0
+[17-07-2015 10:47:28.525634] GET	Board Get All	Getting boards failed, code 0
+[17-07-2015 10:47:28.551577] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:28.587875] GET	Board export as csv	Export failed, code 503
+[17-07-2015 10:47:28.615793] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:28.678019] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:28.716530] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:28.718844] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:28.767972] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:28.796986] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:28.822495] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:28.823385] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:28.879937] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:28.900920] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:28.975503] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:28.975877] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:29.029813] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:29.032637] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:29.033075] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:29.053361] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:29.077965] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:29.158020] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:29.181781] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:29.188196] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:29.196579] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:29.200814] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:29.204438] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:29.219617] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:29.240989] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:29.256474] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:29.298474] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:29.304403] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:29.330474] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:29.368191] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:29.373958] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:29.417608] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:29.447268] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:29.450226] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:29.463014] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:29.545573] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:29.557071] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:29.560151] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:29.587754] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:29.588763] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:29.632180] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:29.635396] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:29.663508] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:29.673307] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:29.697191] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:29.697761] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:29.712787] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:29.716087] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:29.717123] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:29.728499] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:29.738037] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:29.748112] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:29.780997] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:29.782984] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:29.792757] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:29.808338] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:29.826070] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:29.832575] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:29.867017] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:29.868784] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:29.872574] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:29.874986] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:29.902398] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:29.934643] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:29.942555] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:29.942980] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:29.948677] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:29.949043] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:29.952987] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:29.955596] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:29.968678] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:29.972773] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:30.003151] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:30.013484] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:30.076096] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:30.097687] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:30.113437] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:30.149158] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:30.151931] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:30.162560] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:30.186322] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:30.220104] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:30.273140] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:30.278275] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:30.291190] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:30.304511] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:30.308736] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:30.315336] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:30.316374] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:30.324567] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:30.350266] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:30.378243] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:30.389666] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:30.405246] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:30.437480] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:30.524844] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:30.529531] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:30.558164] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:30.584334] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:30.604523] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:30.608930] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:30.621619] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:30.645530] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:30.669455] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:30.693079] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:30.696582] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:30.697616] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:30.720480] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:30.728999] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:30.737546] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:30.786830] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:30.831195] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:30.885040] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:30.889168] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:30.897649] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:30.933943] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:30.935761] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:30.936506] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:30.956787] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:31.022016] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:31.025153] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:31.046035] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:31.049529] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:31.061591] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:31.087901] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:31.102505] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:31.125418] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:31.178438] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:31.178827] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:31.207156] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:31.218543] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:31.223637] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:31.224057] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:31.261497] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:31.281527] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:31.287031] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:31.317815] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:31.324328] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:31.328867] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:31.339303] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:31.360691] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:31.373631] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:31.415296] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:31.443202] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:31.455221] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:31.464763] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:31.465159] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:31.473526] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:31.521931] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:31.543720] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:31.615075] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:31.617042] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:31.622563] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:31.713735] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:31.717000] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:31.723516] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:31.768141] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:31.827700] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:31.895710] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:31.911091] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:31.936912] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:31.960584] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:32.022237] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:32.038948] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:32.039868] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:32.078600] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:32.118371] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:32.172892] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:32.178385] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:32.182484] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:32.197875] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:32.215401] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:32.216940] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:32.269303] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:32.273994] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:32.275777] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:32.283202] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:32.307526] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:32.321588] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:32.354031] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:32.355165] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:32.364884] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:32.387230] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:32.388301] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:32.388706] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:32.403264] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:32.412741] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:32.417013] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:32.418739] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:32.425483] GET	Board export as json	Export failed, code 503
+[17-07-2015 10:47:32.455909] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:32.463659] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:32.519594] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:32.522037] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:32.545740] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:32.546205] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:32.565362] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:32.606598] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:32.608077] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:32.614853] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:32.629472] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:32.631644] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:32.654868] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:32.688767] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:32.696474] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:32.697232] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:32.723986] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:32.756405] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:32.786544] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:32.796094] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:32.804945] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:32.825667] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:32.857285] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:32.884280] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:32.917513] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:32.919440] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:32.920692] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:32.947462] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:32.948879] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:32.964048] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:33.000193] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:33.009993] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:33.019184] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:33.028334] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:33.054159] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:33.088169] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:33.140471] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:33.174379] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:33.180621] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:33.197075] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:33.220634] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:33.232727] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:33.255627] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:33.261354] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:33.267436] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:33.277701] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:33.296380] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:33.297110] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:33.331344] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:33.351848] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:33.401978] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:33.457528] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:33.525076] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:33.543068] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:33.558068] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:33.626731] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:33.663983] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:33.697507] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:33.708798] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:33.725628] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:33.728932] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:33.756236] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:33.832050] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:33.835890] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:33.872553] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:33.882506] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:33.898109] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:33.936664] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:33.945749] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:34.041516] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:34.054401] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:34.086724] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:34.096129] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:34.112729] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:34.122103] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:34.127804] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:34.135282] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:34.173029] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:34.178411] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:34.185550] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:34.226857] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:34.242770] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:34.290634] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:34.310694] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:34.337408] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:34.348280] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:34.350379] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:34.373432] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:34.378821] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:34.396016] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:34.410100] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:34.434909] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:34.438238] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:34.491618] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:34.562008] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:34.569527] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:34.594859] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:34.600778] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:34.625944] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:34.626371] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:34.682135] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:34.684666] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:34.726861] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:34.734531] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:34.769428] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:34.786627] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:34.796984] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:34.818493] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:34.823310] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:34.837617] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:34.854815] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:34.867547] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:34.869718] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:34.947464] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:34.952362] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:34.955564] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:34.966425] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:34.989028] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:35.015124] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:35.069943] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:35.116270] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:35.159278] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:35.173374] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:35.221992] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:35.239837] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.240342] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:35.260590] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:35.292605] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:35.300028] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:35.328336] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:35.328870] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.332664] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:35.352692] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:35.353205] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.365254] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:35.380455] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:35.413257] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:35.415231] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:35.425544] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:35.427847] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:35.440146] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.443691] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:35.460015] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:35.465319] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:35.471444] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:35.478586] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.482520] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:35.485733] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:35.532448] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:35.590883] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:35.616982] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:35.637219] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:35.639935] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:35.640359] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:35.647812] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:35.667595] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:35.668527] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:35.711066] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:35.724708] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:35.727900] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:35.735159] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:35.756760] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:35.759187] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:35.762531] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:35.775129] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:35.782328] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:35.791712] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.806222] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:35.806998] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.822457] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.822864] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.833759] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:35.837985] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:35.843984] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:35.852249] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:35.921426] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:35.935392] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:36.000130] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:36.058678] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:36.060421] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:36.080031] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:36.101779] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:36.122329] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:36.169540] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:36.176503] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:36.179379] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:36.180297] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:36.229195] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:36.274815] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:36.330270] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:36.339686] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:36.340311] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:36.376465] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:36.395787] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:36.401951] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:36.416148] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:36.435474] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:36.440692] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:36.550317] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:36.550742] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:36.553930] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:36.557822] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:36.577357] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:36.639122] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:36.663055] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:36.665816] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:36.687916] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:36.691033] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:36.692204] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:36.729382] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:36.766023] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:36.772881] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:36.775700] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:36.792386] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:36.797770] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:36.830087] GET	Board export as json	Export failed, code 503
+[17-07-2015 10:47:36.833813] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:36.855370] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:36.867872] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:36.888957] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:36.917085] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:36.923604] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:36.960476] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:36.996874] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:37.018327] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:37.023085] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:37.052700] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:37.097216] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:37.126978] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:37.171847] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:37.207286] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:37.226901] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:37.227638] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:47:37.229615] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:37.335036] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:37.353677] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:37.397040] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:37.426385] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:37.476893] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:37.503380] GET	Board export as image	Export failed, code 503
+[17-07-2015 10:47:37.503810] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:37.508149] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:37.534608] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:37.534975] GET	Board export as csv	Export failed, code 503
+[17-07-2015 10:47:37.545697] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:37.550491] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:37.557723] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:37.602846] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:37.633837] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:37.674442] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:37.714440] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:37.716863] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:37.721949] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:37.744020] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:37.779056] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:37.818170] GET	Board export as image	Export failed, code 503
+[17-07-2015 10:47:37.826503] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:37.849352] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:37.862192] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:37.868182] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:37.872740] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:37.873940] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:37.880245] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:37.906673] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:37.926282] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:37.931654] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:37.942433] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:37.955571] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:37.957362] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:37.969135] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:37.981471] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:37.999505] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:38.038380] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:38.042947] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:38.056226] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:38.076576] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:38.089729] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:38.093560] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:38.113306] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:38.144740] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:38.145454] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:38.152651] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:38.223284] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:38.240805] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:38.285419] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:38.290214] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:38.298027] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:38.333927] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:38.340624] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:38.367087] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:38.387513] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:38.398681] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:38.432051] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:38.432571] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:38.458739] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:38.487382] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:38.490884] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:38.494653] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:38.500896] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:38.526327] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:38.546211] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:38.554089] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:38.575161] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:38.597146] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:38.612021] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:38.690663] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:38.698247] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:38.712830] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:38.723936] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:38.746388] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:38.775383] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:38.823311] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:38.823704] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:38.824329] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:38.894855] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:47:38.901715] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:38.945534] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:38.997910] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:39.040673] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:39.048501] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:39.062631] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:39.065650] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:39.115311] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:39.154047] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:39.164357] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:39.196405] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:39.227917] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:39.256810] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:39.266783] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:39.267141] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:39.312957] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:39.321674] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:39.332518] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:39.367709] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:39.379282] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:39.381137] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:39.432366] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:39.438224] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:39.498080] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:39.543919] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:39.551026] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:39.564694] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:39.578636] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:39.629437] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:39.631283] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:39.684713] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:39.686369] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:39.733789] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:39.762286] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:39.770238] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:39.770888] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:39.772167] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:39.783792] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:39.790346] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:39.794926] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:39.802021] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:39.824188] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:39.839777] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:39.856770] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:39.876678] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:39.892622] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:39.919412] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:39.931901] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:39.937848] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:39.977962] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:39.978639] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:39.979885] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:39.995567] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:39.996530] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:40.009663] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:40.104614] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:40.138159] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:40.155156] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:40.156598] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:40.159202] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:40.179097] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:40.229755] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:40.244988] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:40.321101] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:40.335370] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:40.338550] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:40.339492] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:40.348625] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:40.353839] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:40.361673] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:40.429017] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:40.442985] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:40.448023] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:40.469199] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:40.489675] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:40.534479] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:40.548048] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:40.559634] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:40.563851] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:40.605399] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:40.617702] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:40.619925] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:40.631322] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:40.654333] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:40.672271] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:40.684658] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:40.722399] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:40.726481] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:40.728408] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:40.759482] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:40.794392] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:40.816437] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:40.825744] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:40.838463] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:40.860721] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:40.867995] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:40.868935] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:40.906476] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:40.930131] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:40.976768] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:41.115304] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:41.236077] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:41.250789] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:41.257814] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:41.259735] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:41.269268] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:41.269916] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:41.276297] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:41.292472] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:41.295005] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:41.300576] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:41.302787] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:41.333509] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:41.337269] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:41.365163] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:41.413495] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:41.430845] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:41.433571] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:41.447626] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:41.534758] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:41.596446] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:41.625376] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:41.641046] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:41.645515] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:41.736941] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:41.741640] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:41.754033] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:41.778561] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:41.826122] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:41.841751] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:41.842509] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:41.850273] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:41.862337] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:41.862739] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:41.879525] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:41.906370] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:41.950911] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:41.963529] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:41.970973] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:41.971363] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:42.030397] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:42.062162] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:42.079735] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:47:42.084104] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:42.104671] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:42.105182] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:42.105666] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:42.146526] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:42.149737] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:42.178055] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:42.238042] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:42.240343] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:42.243605] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:42.254040] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:42.273898] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:42.274889] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:42.291031] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:42.323150] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:42.332900] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:42.335527] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:42.338752] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:42.383928] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:42.398558] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:42.468186] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:42.494629] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:42.499725] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:42.527626] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:42.541474] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:42.552451] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:42.557689] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:42.574777] GET	Board export as image	Export failed, code 503
+[17-07-2015 10:47:42.633557] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:42.640021] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:42.732100] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:42.786337] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:42.786748] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:42.843314] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:42.857967] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:42.892230] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:42.896188] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:42.912119] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:42.960424] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:42.964484] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:42.985513] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:43.055706] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:43.109368] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:43.118994] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:43.127093] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:43.151742] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:43.165482] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:43.185019] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:43.203968] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:43.209489] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:43.230607] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:43.238520] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:43.243782] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:43.275390] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:43.305974] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:43.331847] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:43.354114] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:43.365093] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:43.385452] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:43.459300] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:43.500602] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:43.505028] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:43.509615] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:43.541108] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:43.561550] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:43.588812] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:43.597925] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:43.611317] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:43.615946] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:43.680777] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:43.730025] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:43.733462] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:43.783717] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:43.803250] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:43.810131] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:43.811766] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:43.823586] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:47:43.833170] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:43.836408] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:43.842622] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:43.842996] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:43.853260] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:43.860867] GET	Board export as json	Export failed, code 503
+[17-07-2015 10:47:43.865864] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:43.877162] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:43.889547] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:43.930377] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:43.955544] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:43.960168] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:47:43.976533] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:43.978474] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:43.986270] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:43.994242] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:44.072811] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:44.085965] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:44.104235] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:44.212080] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:44.213843] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:44.235449] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:44.239811] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:44.297434] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:44.297825] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:44.325903] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:44.332250] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:44.342421] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:44.418735] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:44.443370] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:44.464828] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:44.466142] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:44.496243] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:44.545433] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:44.562775] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:44.574772] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:44.580402] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:44.622661] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:44.652761] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:44.653290] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:44.672703] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:44.690994] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:44.692988] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:44.732095] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:44.740581] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:44.783767] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:44.795493] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:44.829434] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:44.836962] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:44.844042] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:44.844498] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:44.860509] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:44.993481] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:44.994166] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:45.013998] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:45.015074] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:45.029919] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:45.043357] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:45.046811] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:45.078349] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:45.100369] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:45.117791] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:45.118673] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:45.124310] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:45.129359] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:45.148252] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:45.177929] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:45.192608] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:45.193165] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:45.219074] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:45.232904] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:45.258697] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:45.305567] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:45.309810] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:45.313651] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:45.314904] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:45.322593] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:45.337642] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:45.358645] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:45.416963] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:45.428337] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:45.458841] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:45.468999] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:45.499021] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:45.499490] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:45.520133] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:45.550207] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:45.550780] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:45.566762] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:45.650430] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:45.656629] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:45.661959] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:45.706559] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:45.722733] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:45.742590] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:45.762118] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:45.791750] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:45.803276] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:45.847506] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:45.848079] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:45.916629] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:45.920579] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:45.927085] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:45.958254] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:45.962830] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:46.006859] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:46.024868] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:46.065829] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:46.068161] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:46.097828] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:46.121339] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:46.169768] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:46.171250] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:46.173331] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:46.239124] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:46.240404] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:46.265910] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:46.339831] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:46.343499] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:46.365593] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:46.369337] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:46.391264] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:46.401983] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:46.433081] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:46.468948] GET	Board export as image	Export failed, code 503
+[17-07-2015 10:47:46.473476] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:46.477153] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:46.492792] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:46.536162] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:46.552723] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:46.571501] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:46.578265] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:46.586237] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:46.620067] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:46.623872] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:46.627433] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:46.641898] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:46.676275] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:46.691466] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:46.734742] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:46.751836] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:46.759019] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:46.791651] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:46.797677] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:46.802752] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:46.840311] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:47.009046] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:47.041122] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:47.126881] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:47.145277] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:47.151165] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:47.166420] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:47.187054] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:47.210677] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:47.226548] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:47.235149] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:47.253042] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:47.270716] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:47.298496] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:47.340621] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:47.374967] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:47.386436] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:47.455318] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:47.469667] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:47.476066] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:47.478116] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:47.482826] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:47.492460] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:47.534389] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:47.555412] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:47.556652] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:47.573035] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:47.588017] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:47.603410] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:47.607580] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:47.639326] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:47.643046] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:47.680898] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:47.685362] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:47.696615] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:47.697003] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:47.717157] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:47.733637] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:47.744891] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:47.764915] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:47.787475] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:47.831893] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:47.846573] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:47.851758] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:47.874597] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:47.904057] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:47.921656] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:47.993371] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:48.009741] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:48.012705] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:48.029589] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:48.055988] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:48.056393] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:48.074250] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:48.076150] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:48.093873] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:48.095105] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:48.145461] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:48.169707] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:48.170224] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:48.178470] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:48.237078] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:48.276732] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:48.316566] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:48.345941] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:48.346496] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:48.362585] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:48.383075] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:48.507968] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:48.523441] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:48.622740] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:48.645990] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:48.658480] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:48.701089] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:48.746966] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:48.753603] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:48.774057] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:48.780567] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:48.829327] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:48.829707] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:48.857330] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:48.883398] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:48.884166] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:48.933450] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:48.949400] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:48.960761] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:49.038057] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:49.061959] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:49.079261] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:49.087289] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:49.089462] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:49.183325] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:49.183720] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:49.242045] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:49.326263] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:49.352508] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:49.384190] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:49.443721] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:49.494654] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:49.510259] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:49.511196] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:49.516050] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:49.570713] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:49.605172] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:49.620398] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:49.717443] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:49.721618] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:49.724749] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:49.730553] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:49.734015] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:49.739508] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:49.752857] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:49.767469] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:49.778204] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:49.785412] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:49.841317] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:49.889810] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:49.936493] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:49.944167] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:49.958168] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:49.962796] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:50.017394] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.055876] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:50.060050] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:50.067104] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:50.070362] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:50.083825] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:50.171253] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:50.198153] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:50.218762] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.222072] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:50.229591] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:50.239154] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:50.247331] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:50.269848] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:50.272431] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:50.322751] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:50.346733] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.349620] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:50.381118] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:50.414173] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:50.436559] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.443726] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.470272] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:50.486995] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:50.493385] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.500981] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:50.535005] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:50.549902] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.589957] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:50.601438] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:50.614325] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:50.677186] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:50.718778] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:50.739648] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:50.745121] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:50.800975] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.803502] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:50.820483] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:50.841651] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:50.861812] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:50.862861] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:50.863852] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:50.906822] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:50.920651] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:50.954811] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:50.960795] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:50.970180] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:50.971425] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:50.986668] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:50.991039] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:51.051157] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:51.076098] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:51.076555] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:51.087482] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:51.125123] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:51.143450] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:51.204646] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:51.249502] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:51.278291] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:51.303570] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:51.339685] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:51.340091] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:51.350861] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:51.358409] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:51.359692] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:51.360061] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:51.366724] GET	Board export as json	Export failed, code 503
+[17-07-2015 10:47:51.373559] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:51.381232] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:51.401532] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:51.478663] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:51.488445] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:51.589903] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:51.609091] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:51.611109] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:51.688257] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:51.699088] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:51.745577] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:51.768200] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:51.783593] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:51.794477] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:51.831637] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:51.839801] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:51.853035] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:51.855479] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:51.866948] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:51.874069] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:51.897743] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:51.941503] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:51.998507] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:52.003585] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:52.025728] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:52.036249] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:52.045229] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:52.051823] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:52.062725] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:52.080466] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:52.082881] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:52.095561] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:52.178303] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:52.205239] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:52.242940] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:52.277896] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:52.281692] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:52.282098] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:52.285908] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:52.348380] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:52.369125] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:52.423683] GET	Board export as csv	Export failed, code 503
+[17-07-2015 10:47:52.446378] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:52.461337] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:52.488428] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:52.508929] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:52.554265] GET	Board export as csv	Export failed, code 503
+[17-07-2015 10:47:52.577879] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:52.594864] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:52.643108] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:52.645662] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:52.663961] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:52.675282] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:52.684276] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:52.695818] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:52.705359] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:52.724601] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:52.743522] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:52.745129] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:52.773671] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:52.779217] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:52.801292] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:52.811755] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:52.854040] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:52.880571] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:52.930723] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:52.936816] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:52.943867] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:52.971396] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:52.982399] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:52.985393] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:53.000094] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:53.013927] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:53.040350] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:53.072432] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:53.111801] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:53.150736] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:53.165735] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:53.167997] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:53.178047] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:53.230968] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:53.248229] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:53.358708] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:53.359087] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:53.377053] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:53.379728] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:53.387670] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:53.410012] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:53.487216] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:53.491097] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:53.525218] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:53.541949] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:53.562549] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:53.567333] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:53.578851] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:53.591913] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:53.599306] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:53.656400] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:53.667065] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:53.702301] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:53.748023] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:53.749140] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:53.749730] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:53.789253] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:53.789661] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:53.803300] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:53.833109] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:53.858967] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:53.880355] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:53.980800] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:54.015474] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:54.015907] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:54.042779] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:54.069740] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:54.073882] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:54.127515] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:54.127990] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:54.172684] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:54.196034] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:54.254886] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:54.258814] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:54.272291] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:54.282108] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:54.311409] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:54.313414] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:54.356732] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:54.374810] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:54.383085] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:54.402499] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:54.403147] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:54.413597] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:54.439707] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:54.481062] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:54.503842] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:54.504689] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:54.541069] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:54.604035] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:54.612755] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:54.736372] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:54.755023] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:54.821540] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:54.836847] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:54.852556] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:47:54.860013] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:54.864983] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:54.880770] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:54.888213] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:54.900900] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:54.901576] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:54.922860] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:54.928130] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:54.999286] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:55.030965] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:55.057099] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:55.057738] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:55.064316] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:55.083473] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:55.093286] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:55.102080] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:55.166132] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:55.181931] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:55.252138] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:55.272331] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:55.324323] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:55.328993] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:55.342311] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:55.362397] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:55.376096] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:55.434218] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:55.465583] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:55.466001] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:55.498308] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:55.507076] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:55.544586] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:55.582396] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:55.631969] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:55.642130] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:55.650148] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:55.660942] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:55.671951] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:55.675100] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:55.757201] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:55.759322] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:55.796722] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:55.827381] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:55.841164] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:47:55.868729] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:55.876119] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:55.921467] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:55.979756] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:55.980247] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:55.995999] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:56.004960] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:56.028249] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:56.028937] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:56.059827] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:56.116066] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:56.136981] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:56.140423] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:56.215438] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:56.246070] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:56.248047] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:56.283709] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:56.307130] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:56.353252] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:56.377596] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:56.467486] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:56.489707] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:56.495317] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:56.503852] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:56.527550] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:56.539261] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:56.599236] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:56.630000] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:56.637553] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:56.716321] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:47:56.741869] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:56.757274] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:56.771008] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:56.785637] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:56.794420] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:56.859187] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:56.911738] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:56.953128] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:56.990067] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:56.992573] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:57.063454] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:57.167408] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:57.258785] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:57.274170] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:57.294865] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:57.338717] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:47:57.343586] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:57.355830] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:57.369170] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:57.384424] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:57.387767] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:57.392398] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:57.477663] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:57.494777] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:57.502016] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:57.534646] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:57.545943] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:57.546392] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:57.575230] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:57.593282] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:57.609125] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:57.612981] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:57.645872] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:57.676949] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:57.732089] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:57.739414] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:57.747401] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:57.758640] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:57.759785] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:57.826397] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:57.843355] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:57.869537] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:57.899678] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:57.931024] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:57.953585] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:57.954976] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:58.069235] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:58.131599] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:58.133613] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:58.134259] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:58.143585] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:58.145392] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:58.175682] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:58.183493] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:58.212646] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:58.221883] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:58.246636] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:58.258952] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:58.271858] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:58.315804] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:58.369619] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:58.382905] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:47:58.384420] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:58.389016] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:58.402978] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:58.414909] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:58.499761] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:58.567738] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:58.589555] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:58.611913] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:58.635428] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:47:58.638982] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:58.641243] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:58.702127] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:58.742870] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:58.750991] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:58.800758] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:47:58.802763] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:58.803275] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:58.837882] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:58.838329] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:58.851340] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:58.856261] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:58.861042] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:58.888609] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:58.918454] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:58.941331] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:58.971281] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:58.990122] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:59.058921] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:59.078077] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:47:59.096889] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:47:59.100785] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:59.109432] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:47:59.145663] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.202326] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.207111] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:47:59.245811] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.246427] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:47:59.260594] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:59.285630] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:59.312009] GET	Login	Login failed, code: 503
+[17-07-2015 10:47:59.351141] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:59.362129] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:59.391967] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.399844] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:59.407512] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:47:59.470503] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:59.513043] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:47:59.555250] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:47:59.558047] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:47:59.591376] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:47:59.637842] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.646670] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:47:59.664335] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.694109] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:47:59.761850] POST	Register	Register failed, code: 503
+[17-07-2015 10:47:59.795230] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.868028] GET	Login	On start login failed, code: 503
+[17-07-2015 10:47:59.923437] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.939056] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:47:59.941141] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:47:59.956109] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:00.002522] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:48:00.002922] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:48:00.021312] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:48:00.024906] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:00.032616] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:48:00.045418] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:00.100083] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:00.108433] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:00.148622] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:00.177306] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:00.188662] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:00.229131] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:00.262766] POST	Register	Register failed, code: 503
+[17-07-2015 10:48:00.277669] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:00.293311] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:00.350719] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:00.372839] GET	Login	On start login failed, code: 503
+[17-07-2015 10:48:00.377883] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:00.394537] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:00.426361] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:00.472969] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:00.499724] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:48:00.513168] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:00.526063] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:00.547429] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:00.548910] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:00.574094] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:00.655754] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:00.659804] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:00.703548] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:00.718601] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:00.763941] POST	Register	Register failed, code: 503
+[17-07-2015 10:48:00.765080] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:00.767145] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:00.789175] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:00.873643] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:00.874046] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:00.874432] GET	Login	On start login failed, code: 503
+[17-07-2015 10:48:00.874832] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:00.908427] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:48:00.961455] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:01.009118] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:01.064546] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:48:01.132245] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:01.170516] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:01.190228] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:01.254878] POST	Register	Register failed, code: 503
+[17-07-2015 10:48:01.283793] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:01.341620] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:01.346409] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:01.360047] GET	Login	On start login failed, code: 503
+[17-07-2015 10:48:01.377923] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:01.400989] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:01.416592] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:01.473365] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:01.474693] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:48:01.481540] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:01.502430] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:48:01.542308] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:01.563806] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:01.667121] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:01.674036] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:01.701267] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:01.714243] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:01.715238] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:01.749609] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:01.764746] POST	Register	Register failed, code: 503
+[17-07-2015 10:48:01.803940] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:01.848960] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:01.859100] GET	Board export as plaintext	Export failed, code 503
+[17-07-2015 10:48:01.859567] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:01.873079] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:01.874268] GET	Login	On start login failed, code: 503
+[17-07-2015 10:48:01.885743] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:01.904135] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:01.946915] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:01.948707] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:01.962921] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:01.969811] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:48:01.979500] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:02.032273] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:02.045917] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:02.058615] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:02.064569] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:02.083052] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:02.135623] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:02.139542] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:02.145803] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:02.159972] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:02.185678] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:02.186336] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:02.244324] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:02.264907] POST	Register	Register failed, code: 503
+[17-07-2015 10:48:02.287677] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:02.322277] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:02.370229] GET	Login	On start login failed, code: 503
+[17-07-2015 10:48:02.386872] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:02.397772] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:02.400522] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:02.435183] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:02.489181] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:02.493657] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:02.531550] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:02.540940] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:02.598882] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:02.684119] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:48:02.709118] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:02.802305] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:48:02.802716] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:02.821792] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:48:02.854217] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:02.863570] GET	Board export as csv	Export failed, code 503
+[17-07-2015 10:48:02.906428] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:02.912968] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:02.935446] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:02.937202] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:02.947726] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:02.963765] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:02.966397] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:03.069024] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:03.127895] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:03.163679] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:03.195639] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:03.208457] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:03.228956] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:03.236453] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:48:03.250251] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:03.277665] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:03.279727] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:03.290668] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:03.339378] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:03.367731] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:03.380903] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:03.415947] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:48:03.416339] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:03.445979] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:03.461889] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:48:03.492122] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:03.514224] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:03.537401] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:03.553350] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:03.553865] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:48:03.604572] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:03.621107] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:48:03.650872] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:48:03.683634] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:03.735630] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:03.776706] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:03.801374] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:03.806957] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:03.838541] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:03.880295] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:03.921316] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:03.935425] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:03.963529] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:03.982516] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:04.082549] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:04.146213] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:48:04.202893] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:04.242849] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:04.265478] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:04.268137] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:04.342652] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:04.372254] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:04.461042] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:48:04.461408] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:04.473057] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:04.473527] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:04.530343] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:04.548983] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:04.549351] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:48:04.562500] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:04.578663] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:04.657037] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:04.673160] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:04.679314] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:04.683115] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:04.748075] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:04.765806] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:04.785340] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:04.796046] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:04.825057] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:04.866674] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:04.885816] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:04.911191] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:05.148819] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:05.192180] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:05.200391] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:05.232135] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:05.299115] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:05.323644] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:05.326823] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:05.347088] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:05.355887] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:05.452032] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:05.470101] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:48:05.484064] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:05.511758] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:05.515527] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:05.619184] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:05.766502] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:05.787055] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:05.788897] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:48:05.798864] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:05.831161] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:05.943713] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:05.966991] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:05.986477] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:06.018478] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:48:06.202264] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:48:06.268355] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:06.289126] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:06.378504] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:06.379102] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:06.411265] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:06.418388] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:06.418927] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:06.442019] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:06.447425] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:06.484170] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:06.500762] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:06.506024] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:06.525236] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:06.529115] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:06.549679] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:06.554810] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:06.593657] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:06.605593] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:06.643948] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:06.691553] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:06.802162] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:48:06.803473] PUT	Board Set Activity	Set activity failed, code: 503
+[17-07-2015 10:48:06.833153] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:06.833648] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:06.889567] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:06.889974] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:07.069456] GET	Version Api	Version api failed, code: 503
+[17-07-2015 10:48:07.074716] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:07.083988] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:07.100072] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:48:07.120805] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:07.138201] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:07.184931] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:07.188523] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:07.248981] GET	Version Img	Version img failed, code: 503
+[17-07-2015 10:48:07.253178] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:07.255078] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:07.260504] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:07.295496] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:07.364541] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:48:07.402823] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:07.406650] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:07.427232] POST	Logout	Logout failed, code: 503
+[17-07-2015 10:48:07.438794] PUT	Ticket Modify Content	Ticket modify failed, code: 503
+[17-07-2015 10:48:07.453009] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:07.455576] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:48:07.532532] GET	Auth (old token)	Get Auth after logout != 401, code: 503
+[17-07-2015 10:48:07.543755] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:07.565316] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:07.620062] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:07.638607] GET	Login	Login failed, code: 503
+[17-07-2015 10:48:07.660473] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:07.671117] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:07.679552] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:07.683276] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:07.706712] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:07.707481] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:07.738554] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:07.748102] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:07.749833] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:07.847770] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:07.869469] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:07.942899] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:48:07.953103] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:08.008599] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:08.052003] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:08.108066] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:08.166345] GET	Board export as csv	Export failed, code 503
+[17-07-2015 10:48:08.220832] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:08.271046] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:08.301730] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:08.320137] POST	Ticket Comment	Ticket comment failed, code: 503
+[17-07-2015 10:48:08.330268] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:08.331936] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:08.350547] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:08.354515] PUT	User Edit	User edit failed, code: 503
+[17-07-2015 10:48:08.385582] DELETE	Board Delete	Board remove failed, code: 503
+[17-07-2015 10:48:08.475114] GET	Auth request	Get Auth failed, code: 503
+[17-07-2015 10:48:08.510384] GET	Board Get Events	Getting board events failed, code 503
+[17-07-2015 10:48:08.554021] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:08.572267] GET	Board Get Single	Getting board by id failed, code 503
+[17-07-2015 10:48:08.599912] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:08.639099] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:08.651005] POST	Board Create	Board creation failed, code: 503
+[17-07-2015 10:48:08.667190] POST	Ticket Create	Creating new ticket failed, code: 503
+[17-07-2015 10:48:08.673482] PUT	User Password Change	User password change failed, code: 503
+[17-07-2015 10:48:08.710969] PUT	Board Edit	Board edit failed, code: 503
+[17-07-2015 10:48:08.717283] GET	Board Get Tickets	Getting board tickets failed, code 503
+[17-07-2015 10:48:08.729579] PUT	Ticket Move	Failed to move ticket, code: 503
+[17-07-2015 10:48:08.782885] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:08.808425] GET	Board Get All	Getting boards failed, code 503
+[17-07-2015 10:48:08.847137] DELETE	Ticket Delete	Ticket deletion failed, code: 503
+[17-07-2015 10:48:08.876466] PUT	Ticket Move	Failed to move ticket, code: 503

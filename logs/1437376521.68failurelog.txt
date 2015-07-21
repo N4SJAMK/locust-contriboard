@@ -1,0 +1,2 @@
+[20-07-2015 10:15:53.447821] POST	Register	Register failed, code: 0
+[20-07-2015 10:16:00.455884] GET	Login	On start login failed, code: 0
