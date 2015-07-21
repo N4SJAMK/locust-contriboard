@@ -3,5 +3,5 @@ Locust tests for contriboard
 
 To run these tests:
 ```
-locust -f locust-tests.py -H http://*address*/ TeamboardUser
+locust -f locust-tests-new.py -H http://*address*/ TeamboardUser
 ```
