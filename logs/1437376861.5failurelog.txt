@@ -1,1 +1,0 @@
-[20-07-2015 10:21:46.415228] POST	Ticket Comment	Ticket comment failed, code: 201

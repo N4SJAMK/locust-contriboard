@@ -1,4 +1,0 @@
-[21-07-2015 13:23:23.109348] GET	Auth (old token)	Get Auth after logout != 401, code: 0
-[21-07-2015 13:23:23.197934] GET	Auth (old token)	Get Auth after logout != 401, code: 0
-[21-07-2015 13:23:23.589099] GET	Auth (old token)	Get Auth after logout != 401, code: 0
-[21-07-2015 13:23:24.564238] GET	Auth (old token)	Get Auth after logout != 401, code: 0

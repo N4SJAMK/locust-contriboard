@@ -1,6 +1,0 @@
-[21-07-2015 08:52:49.765890] POST	Register	Register failed, code: 503
-[21-07-2015 08:52:49.869294] GET	Login	On start login failed, code: 503
-[21-07-2015 08:52:50.058396] POST	Register	Register failed, code: 503
-[21-07-2015 08:52:50.161311] GET	Login	On start login failed, code: 503
-[21-07-2015 08:52:50.389238] POST	Register	Register failed, code: 503
-[21-07-2015 08:52:50.489311] GET	Login	On start login failed, code: 503
