@@ -1,0 +1,1 @@
+This is where locust writes logs about failed and success requests. Files are named with UNIX time + "Failurelog" for failed requests and UNIX time + "locustlog" for success requests. Locust saves and writes log file when test is cancelled with CTRL+C in console. Stopping test wont trigger SAVE. 
