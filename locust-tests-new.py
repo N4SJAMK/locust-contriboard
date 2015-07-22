@@ -14,7 +14,7 @@ MAX_WAIT_TIME_SECONDS 	= 2
 
 #CONSTANT STUFF
 COLOR = ['#4F819A','#724A7F','#DCC75B','#EB584A']
-BACKGROUND = ['SWOT','PLAY','SCRUM','KANBAN','KEEP_DROP_TRY','NONE','CUSTOMER_JOURNEY_MAP','BUSINESS_MODEL_CANVAS']
+BACKGROUND = ['SWOT','PLAY','BLANK','DEFAULT','KANBAN','KEEP_DROP_TRY','NONE','SMOOTH_BRAINSTORMING','IDEA_GATHERING','LEAN_CANVAS']
 AVATAR = ['http://placebacon.net/400/300', 'https://placehold.it/350x150', 'http://lorempixel.com/100/100/cats/']
 EXPORT_FORMAT = ['json', 'csv', 'plaintext', 'image']
 logfile = open('logs/' + str(time.time()) + 'locustlog.txt', 'w')
@@ -155,7 +155,7 @@ class TeamboardTasks(TaskSet):
 	API: /routes/board.js
 	'''
 
-	@task(10)
+	@task(5)
 	def post_board(self):
 		if self.token is None: return
 		if len(self.boards) >= MAX_BOARDS: return
@@ -185,10 +185,12 @@ class TeamboardTasks(TaskSet):
 									catch_response=True) as shareresponse:
 					if shareresponse.status_code == 200:
 						sharedboards[newboard['id']] = shareresponse.json()['accessCode']
+						print 'http://sut-cb.n4sjamk.org/boards/' + newboard["id"] + '/access/' + shareresponse.json()["accessCode"]
 					else:
 						shareresponse.failure("Share board failed, code: " + str(shareresponse.status_code))
 			else:
 				response.failure("Board creation failed, code: " + str(response.status_code))
+
 
 	@task(5)
 	def get_board_byid(self):
@@ -220,7 +222,7 @@ class TeamboardTasks(TaskSet):
 			if response.status_code != 200:
 				response.failure("Getting boards failed, code " + str(response.status_code))
 
-	@task(4)
+	@task(15)
 	def edit_board(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -309,7 +311,7 @@ class TeamboardTasks(TaskSet):
 			if response.status_code != 200:
 				response.failure("Getting board tickets failed, code " + str(response.status_code))
 
-	@task(8)
+	@task(50)
 	def post_ticket(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -333,7 +335,7 @@ class TeamboardTasks(TaskSet):
 			else:
 				response.failure("Creating new ticket failed, code: " + str(response.status_code)) 
 
-	@task(12)
+	@task(50)
 	def move_ticket(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -363,7 +365,7 @@ class TeamboardTasks(TaskSet):
 			if response.status_code != 200:
 				response.failure("Failed to move ticket, code: " + str(response.status_code))
 
-	@task(12)
+	@task(50)
 	def modify_content(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -413,7 +415,7 @@ class TeamboardTasks(TaskSet):
 			else:
 				response.failure("Ticket deletion failed, code: " + str(response.status_code))
 
-	@task(6)
+	@task(50)
 	def comment_ticket(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
