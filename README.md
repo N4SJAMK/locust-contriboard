@@ -25,7 +25,7 @@ locust -f locust-tests-new.py --slave --master-host=_masters ip address here_ -H
 
 ### Control panel
 
-Now you can enter locust control panel with browser by navigating to masters ip address and port :8089
+If running locust with multiple machines you can enter locust control panel with browser by navigating to masters ip address and port :8089
 
 
 
