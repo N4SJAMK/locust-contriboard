@@ -222,7 +222,7 @@ class TeamboardTasks(TaskSet):
 			if response.status_code != 200:
 				response.failure("Getting boards failed, code " + str(response.status_code))
 
-	@task(15)
+	@task(10)
 	def edit_board(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -275,7 +275,7 @@ class TeamboardTasks(TaskSet):
 			else:
 				response.failure("Board remove failed, code: " + str(response.status_code))
 	
-	@task(1)
+	@task(3)
 	def export_board(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -311,7 +311,7 @@ class TeamboardTasks(TaskSet):
 			if response.status_code != 200:
 				response.failure("Getting board tickets failed, code " + str(response.status_code))
 
-	@task(50)
+	@task(20)
 	def post_ticket(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -335,7 +335,7 @@ class TeamboardTasks(TaskSet):
 			else:
 				response.failure("Creating new ticket failed, code: " + str(response.status_code)) 
 
-	@task(50)
+	@task(20)
 	def move_ticket(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -365,7 +365,7 @@ class TeamboardTasks(TaskSet):
 			if response.status_code != 200:
 				response.failure("Failed to move ticket, code: " + str(response.status_code))
 
-	@task(50)
+	@task(15)
 	def modify_content(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
@@ -415,7 +415,7 @@ class TeamboardTasks(TaskSet):
 			else:
 				response.failure("Ticket deletion failed, code: " + str(response.status_code))
 
-	@task(50)
+	@task(15)
 	def comment_ticket(self):
 		if self.token is None: return
 		if len(self.boards) is 0: return
